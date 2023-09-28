@@ -31,5 +31,5 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Название таблицы | Название первичного ключа
 customer         | customer_id
-![4.png](https://github.com/Skiledqo/sdb-12.02/blob/main/4.png)
+![5.png](https://github.com/Skiledqo/sdb-12.02/blob/main/5.png)
 
